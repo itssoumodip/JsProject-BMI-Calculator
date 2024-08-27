@@ -1,2 +1,3 @@
 # JsProject-BMI-Calculator
-BMI Calculator This repository contains a simple Body Mass Index (BMI) Calculator project. Users can input their height and weight, and the application calculates their BMI and provides feedback on whether they are underweight, normal, or overweight. The project is built using HTML, CSS, and JavaScript.
+
+This project is a simple BMI (Body Mass Index) calculator built using HTML, CSS, and JavaScript. Users can input their height and weight, and the application will calculate and display their BMI. Additionally, it provides feedback on the BMI range (underweight, normal, or overweight).
